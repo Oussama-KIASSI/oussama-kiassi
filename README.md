@@ -6,6 +6,8 @@ Oussama KIASSI is a Data & Technology Transformation consultant with solid exper
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/oussama-kiassi) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://linkedin.com/in/oussama-kiassi)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kiassi1998)
+
+### 🎖️ Certifications:
 [![Credly](https://img.shields.io/static/v1?style=for-the-badge&message=Credly&color=44A833&logo=Credly&logoColor=FFFFFF&label=)](https://www.credly.com/users/oussama-kiassi/badges)
 [![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)](https://credentials.databricks.com/profile/oussama-kiassi/wallet)
 
